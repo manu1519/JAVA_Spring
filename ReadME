@@ -1,3 +1,5 @@
+Solo para el archivo llamado 'todo'
+
 En vista que el material contiene una librería que se descarga por medio de un entorno virtual (venv)
 
 se subieron los archivos que se ocuparon para realizar el proyecto, no obstante para poder observarlo en su
@@ -5,6 +7,7 @@ se subieron los archivos que se ocuparon para realizar el proyecto, no obstante 
 totalidad, se sugiere descargar las librerías de Flask, entre otras.
 
 --------------------------------------------------------------------------------------------------------------------
+This is only for file called 'todo'
 
 In spite of material from this content it includes a library needed to download by a virtual environ (venv) 
 
